@@ -1,0 +1,6 @@
+{
+  "name": "Heroku Deploy Playground",
+  "description": "To learn and experiment with various heroku deployment options such as github and dropbox",
+  "image": "heroku/nodejs",
+  "addons": []
+}
